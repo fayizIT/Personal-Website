@@ -113,6 +113,7 @@ nav ul {
 nav ul li {
 	margin: 0px;
 	display:inline-block;
+	float: left;
 	}
 
 /* Styling the links */
@@ -863,7 +864,9 @@ h4.left-grid-blog {
     -moz-border-radius: 4px;
     -o-border-radius: 4px;
     -ms-border-radius: 4px;
+	float: right;
 	 cursor: pointer;
+	 
 }
 .contact-right button[type="submit"]:hover {
     color: #222;
